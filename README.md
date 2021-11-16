@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @catharsian
-- 👀 I’m interested in C++ / C#
-- 🌱 I’m currently learning Haskell
 
 
 <!---
